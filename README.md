@@ -1,5 +1,6 @@
 # hello-world
 LAB 1 Project Hello World
+Hello, I am Jesus Guerrero and I am a Computer Science Major and a Computer Engineering Minor. I am 29 years old and have a dog named Max.
 
 /************************************************************************
 * Hello.java
